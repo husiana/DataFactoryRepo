@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryCHadslgen2",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ea1d389-c403-4d96-aa2c-573610d06116",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
