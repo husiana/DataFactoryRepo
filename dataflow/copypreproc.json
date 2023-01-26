@@ -9,7 +9,8 @@
 						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					},
-					"name": "ADLS"
+					"name": "ADLS",
+					"description": "import data"
 				}
 			],
 			"sinks": [],
